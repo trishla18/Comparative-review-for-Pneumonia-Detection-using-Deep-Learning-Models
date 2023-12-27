@@ -1,1 +1,3 @@
 # Comparative-review-for-Pneumonia-Detection-using-Deep-Learning-Models
+Proficiently employed nine well-known CNN models, namely the CNN model 1, CNN model 2, MobileNetv2 Model, EfficientNetB7 Model, InceptionV3 Model, Residual Neural Network (ResNet) - 101 Model, ResNet50 Model, Visual Geometry Group-19(VGG19) Model, and Xception Model for the diagnosis of pneumonia and analyzed the models based on 4 metrics such as precision, recall, accuracy, and F1 score.
+ResNet50 performed the best in comparison to the other 8 models having an accuracy of 91.19%, precision of 91.17%, recall of 91.19%, and f1 score of 91.17%.
